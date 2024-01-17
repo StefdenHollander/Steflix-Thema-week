@@ -57,3 +57,37 @@ body {
 .result{
     color: #ffffff;
 }
+
+.info{
+    position: relative;
+    display: grid;
+    grid-template-columns: 4fr 8fr;
+    align-items: center;
+    margin-top: 19.2px;
+}
+
+.poster{
+    width: 100%;
+}
+
+h2{
+text-align: center;
+font-size: 24px;
+font-weight: 600;
+letter-spacing: 0.96px;
+}
+.rating{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9.6px;
+    margin: 9.6px 0 0.9em 0;
+}
+.rating img{
+    width: 19.2px;
+}
+.rating h4{
+    display: inline-block;
+    font-size: 17.6px;
+    font-weight: 500;
+}

@@ -27,7 +27,8 @@ else{
           <div> 
         <h2>${data.Title}</h2>
           <div class = "rating"> 
-          <img src ="star.svg">
+          <img src ="star-icon.svg">
+          <h4>${data.imdbRating}</h4>
           </div>
         </div>
 
