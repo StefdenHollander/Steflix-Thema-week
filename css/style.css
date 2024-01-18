@@ -9,7 +9,7 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(#1c1917 50%, #ffb92a 50%);
+    background: linear-gradient(#460e04 20%, #a80f07 80%);
 }
 
 .container{
@@ -50,9 +50,10 @@ body{
 }
 
 .search-container button{
-    background-color: #ffb92a;
+    background-color: #af1717;
     border: none;
     cursor: pointer;
+    color: #fff;
 }
 
 #result{
