@@ -1,1 +1,1 @@
-key = "http://www.omdbapi.com/?i=tt3896198&apikey=d39ebe09";
+key = "d39ebe09";
